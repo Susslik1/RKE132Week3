@@ -1,0 +1,14 @@
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\bin\Debug\net8.0\OodOrEven.exe
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\bin\Debug\net8.0\OodOrEven.deps.json
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\bin\Debug\net8.0\OodOrEven.runtimeconfig.json
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\bin\Debug\net8.0\OodOrEven.dll
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\bin\Debug\net8.0\OodOrEven.pdb
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\OodOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\OodOrEven.AssemblyInfoInputs.cache
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\OodOrEven.AssemblyInfo.cs
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\OodOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\OodOrEven.dll
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\refint\OodOrEven.dll
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\OodOrEven.pdb
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\OodOrEven.genruntimeconfig.cache
+C:\Users\Saskia\source\repos\Week3IfAndSwitch\OodOrEven\obj\Debug\net8.0\ref\OodOrEven.dll
